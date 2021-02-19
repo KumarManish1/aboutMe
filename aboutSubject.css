@@ -1,0 +1,35 @@
+article
+{
+	text-align:centre;
+}	
+body
+{
+background-color:darkgray;	
+text-align:center;
+}
+header
+{
+	font-family:Lucida Handwriting;
+	color:navy;
+	background-color:MediumSeaGreen;
+	padding:2px;
+}
+h1
+{
+	
+}
+article
+{
+	font-family:Comic Sans MS;
+	font-size:22px;
+}
+footer
+{
+	font-size:20px;
+	position:fixed;
+	bottom:0;
+	width:100%;
+	text-align:center;
+	background-color:MediumSeaGreen;
+	padding:5px; 
+}
